@@ -1,5 +1,5 @@
 # MaximalCut
  
-Current status:
- T1 - CNEP functional
- T2 - Multiprocessing greedy
+Current status:<br>
+ T1 - CNEP functional<br>
+ T2 - Multiprocessing greedy<br>
